@@ -1,0 +1,19 @@
+Hello IT3038C Student/Professor!
+
+Welcome to the game Higher or Lower!
+
+The objective of the game is simple: Guess whether the next number is lower
+than the previous one.
+
+The more you can guess correctly in a row, the better!
+
+To run the script, type 'py project1code' and the instructions on how to play
+the game will follow.
+
+
+
+The goal of the script is to both demonstrate my amateur understanding of
+Python, as well as apply some of the lessons we learned during the Python
+segment of our work. Plus, I wanted to make a fun and challenging game!
+
+I hope you enjoy the game! Script on, Bearcats!
